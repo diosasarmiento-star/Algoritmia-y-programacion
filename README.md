@@ -27,6 +27,7 @@
 **Programa:** Ingeniería de Sistemas  
 **Habilidades:** Python, pseudocódigo  
 **Fortalezas:** resolución de problemas  
+
 ---
 
 ## 3. Nombre del proyecto y detalles
