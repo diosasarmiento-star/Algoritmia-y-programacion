@@ -26,7 +26,7 @@
 ### Karen Hinestroza
 **Programa:** Ingeniería de Sistemas  
 **Habilidades:** Python, pseudocódigo  
-**Fortalezas:** resolución de problemas  
+**Fortalezas:** resolución de problems  
 
 ---
 
