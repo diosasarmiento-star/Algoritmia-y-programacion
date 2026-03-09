@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# PrestaAmigos
 
 Breve descripción del proyecto.
 
