@@ -18,11 +18,15 @@
 **Habilidades:** análisis lógico, organización  
 **Fortalezas:** documentación y estructuración de proyectos  
 
-### Juan Pérez
+### Yohani Correa
 **Programa:** Ingeniería de Sistemas  
 **Habilidades:** Python, pseudocódigo  
 **Fortalezas:** resolución de problemas  
 
+### Karen Hinestroza
+**Programa:** Ingeniería de Sistemas  
+**Habilidades:** Python, pseudocódigo  
+**Fortalezas:** resolución de problemas  
 ---
 
 ## 3. Nombre del proyecto y detalles
