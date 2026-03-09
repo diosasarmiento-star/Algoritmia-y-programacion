@@ -1,7 +1,5 @@
 # PrestaAmigos
 
-Breve descripción del proyecto.
-
 ---
 
 ## 1. Integrantes
