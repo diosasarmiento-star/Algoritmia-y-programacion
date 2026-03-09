@@ -1,8 +1,50 @@
-# Equipo del Proyecto - Algoritmia y Programación
+# Nombre del Proyecto
 
-| Nombre | Rol | Descripción |
-|------|------|-------------|
-| Yohani Correa | Programadora | Encargada de implementar los algoritmos en Python |
-| Carlos López | Documentación | Responsable de la documentación del proyecto |
-| María Pérez | Testing | Encargada de probar y validar los algoritmos |
-| Juan Torres | Diseño | Diseña la lógica del algoritmo |
+Breve descripción del proyecto.
+
+---
+
+## 1. Integrantes
+
+| Nombre | Descripción |
+|------|-------------|
+| Stefania Sarmiento | Estudiante interesada en análisis de problemas y documentación. |
+| Juan Pérez | Encargado de programación y lógica del algoritmo. |
+
+---
+
+## 2. Vínculos académicos y descripción
+
+### Stefania Sarmiento
+**Programa:** Ingeniería Industrial  
+**Habilidades:** análisis lógico, organización  
+**Fortalezas:** documentación y estructuración de proyectos  
+
+### Juan Pérez
+**Programa:** Ingeniería de Sistemas  
+**Habilidades:** Python, pseudocódigo  
+**Fortalezas:** resolución de problemas  
+
+---
+
+## 3. Nombre del proyecto y detalles
+
+**Nombre:** Sistema de Gestión de Tareas  
+
+**Descripción:**  
+Este proyecto busca desarrollar un algoritmo que permita organizar tareas y priorizarlas según su importancia.
+
+![Imagen representativa](imagen_proyecto.png)
+
+---
+
+## 4. Licencia del software
+
+Este proyecto utiliza la licencia **Creative Commons BY 4.0**.
+
+---
+
+## 5. Reporte de visión
+
+El software busca ayudar a organizar tareas académicas mediante un algoritmo simple.  
+Su objetivo es mejorar la planificación y la eficiencia de los estudiantes.
