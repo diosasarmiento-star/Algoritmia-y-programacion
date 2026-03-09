@@ -7,8 +7,8 @@
 | Nombre | Descripción |
 |------|-------------|
 | Stefania Sarmiento | Estudiante interesada en análisis de problemas y documentación. |
-| Juan Pérez | Encargado de programación y lógica del algoritmo. |
-
+| Yohani Correa | Encargado de programación y lógica del algoritmo. |
+| Karen Hinestroza | Encargado de programación y lógica del algoritmo. |
 ---
 
 ## 2. Vínculos académicos y descripción
