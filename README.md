@@ -30,7 +30,7 @@
 
 ---
 
-## 3. Nombre del proyecto y detalles
+## 3. PrestaAmigos
 
 **Nombre:** Sistema de Gestión de Tareas  
 
