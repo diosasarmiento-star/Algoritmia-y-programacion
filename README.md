@@ -19,9 +19,9 @@
 **Fortalezas:** documentación y estructuración de proyectos  
 
 ### Yohani Correa
-**Programa:** Ingeniería de Sistemas  
-**Habilidades:** Python, pseudocódigo  
-**Fortalezas:** resolución de problemas  
+**Programa:** Ingeniería Industrial  
+**Habilidades:** Matematicas, Disciplina
+**Fortalezas:** Responsable, Aprendo rapido 
 
 ### Karen Hinestroza
 **Programa:** Ingeniería de Sistemas  
@@ -30,9 +30,9 @@
 
 ---
 
-## 3. PrestaAmigos
+## 3. Nombre del proyecto
 
-**Nombre:** Sistema de Gestión de Tareas  
+**Nombre:** PRESTAMIGOS  
 
 **Descripción:**  
 Este proyecto busca desarrollar un algoritmo que permita organizar tareas y priorizarlas según su importancia.
