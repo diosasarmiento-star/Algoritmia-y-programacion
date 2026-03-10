@@ -20,8 +20,7 @@
 
 ### Yohani Correa
 **Programa:** Ingeniería Industrial  
-**Habilidades:** Matematicas, Disciplina
-
+**Habilidades:** Matematicas, Disciplina       
 **Fortalezas:** Responsable, Aprendo rapido 
 
 ### Karen Hinestroza
