@@ -1,4 +1,4 @@
-# PrestaAmigos
+# PrestAmigos
 
 ---
 
@@ -35,9 +35,13 @@
 **Nombre:** PRESTAMIGOS  
 
 **Descripción:**  
-Este proyecto busca desarrollar un algoritmo que permita organizar tareas y priorizarlas según su importancia.
+Sistema automatizado de gestion de prestamos e inventario desarrollado en Python. El cual permite registrar articulos,
+gestionar el historial de presamos a terceros y automatizar el seguimiento de devoluciones. Incluye funciones criticas
+como alertas de vencimiento, generacion de certificado de retorno y emision automatica de facturas de venta para productos
+no devueltos.
 
-![Imagen representativa](imagen_proyecto.png)
+![Imagen representativa](![PRESTAMIGOS](https://github.com/user-attachments/assets/43e1f99f-41f9-4440-89da-2f5c97e46c91)
+)
 
 ---
 
