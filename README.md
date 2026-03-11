@@ -24,9 +24,9 @@
 **Fortalezas:** Responsable, Aprendo rapido 
 
 ### Karen Hinestroza
-**Programa:** Ingeniería de Sistemas  
-**Habilidades:** Python, pseudocódigo  
-**Fortalezas:** resolución de problems  
+**Programa:** Ingeniería Industrial  
+**Habilidades:** pensamiento logico,organizacion y trabajo en equipo 
+**Fortalezas:** amor por el aprendizaje continuo  
 
 ---
 
