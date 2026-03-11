@@ -26,6 +26,7 @@
 ### Karen Hinestroza
 **Programa:** Ingeniería Industrial  
 **Habilidades:** pensamiento logico,organizacion y trabajo en equipo 
+
 **Fortalezas:** amor por el aprendizaje continuo  
 
 ---
