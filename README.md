@@ -55,5 +55,5 @@ Este proyecto utiliza la licencia **Creative Commons BY 4.0**.
 
 Convertirse en la solución tecnológica líder para la gestión de activos personales en entornos colaborativos, 
 transformando la informalidad de los préstamos entre amigos en un proceso transparente, organizado y justo. 
-Buscamos que para el año 2026, Prestamigos sea el estándar de confianza para MJ y la oficina 21-407, garantizando 
-que ninguna herramienta se pierda y que la buena voluntad nunca signifique una pérdida económica.
+Buscamos que para el año 2026, Prestamigos sea el estándar de confianza, garantizando que ninguna herramienta 
+se pierda y que la buena voluntad nunca signifique una pérdida económica.
