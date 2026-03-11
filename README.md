@@ -40,8 +40,8 @@ gestionar el historial de presamos a terceros y automatizar el seguimiento de de
 como alertas de vencimiento, generacion de certificado de retorno y emision automatica de facturas de venta para productos
 no devueltos.
 
-![Imagen representativa](![PRESTAMIGOS](https://github.com/user-attachments/assets/43e1f99f-41f9-4440-89da-2f5c97e46c91)
-)
+[PRESTAMIGOS](https://github.com/user-attachments/assets/f5e874ef-0442-49df-aee1-e4442883449e)
+
 
 ---
 
