@@ -9,6 +9,7 @@
 | Stefania Sarmiento | Estudiante interesada en análisis de problemas y documentación. |
 | Yohani Correa | Encargado de programación y lógica del algoritmo. |
 | Karen Hinestroza | Encargado de programación y lógica del algoritmo. |
+| Mariana Alcaraz | Encargada de programacion y lógica del algoritmo. |
 ---
 
 ## 2. Vínculos académicos y descripción
@@ -16,7 +17,7 @@
 ### Stefania Sarmiento
 **Programa:** Ingeniería Industrial  
 **Habilidades:** análisis lógico, organización  
-**Fortalezas:** documentación y estructuración de proyectos  
+**Fortalezas:** Documentación y estructuración de proyectos  
 
 ### Yohani Correa
 **Programa:** Ingeniería Industrial  
@@ -26,13 +27,12 @@
 ### Karen Hinestroza
 **Programa:** Ingeniería Industrial  
 **Habilidades:** pensamiento logico, trabajo en equipo 
-
- **Fortalezas:** amor por el aprendizaje continuo  
+**Fortalezas:** Amor por el aprendizaje continuo  
  
 ### Mariana Alcaraz
-**Programa:**--- ingeniería industrial 
-**Habilidades:** comunicacion asertiva, pensamiento critico
-**Fortalezas:** autodsiciplina 
+**Programa:** Ingeniería Industrial 
+**Habilidades:** Comunicacion Asertiva, Pensamiento Critico
+**Fortalezas:** Autodisciplina 
 
 ## 3. Nombre del proyecto
 
