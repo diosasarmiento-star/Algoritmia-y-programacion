@@ -26,8 +26,9 @@
 
 ### Karen Hinestroza
 **Programa:** Ingeniería Industrial  
-**Habilidades:** pensamiento logico, trabajo en equipo 
-**Fortalezas:** Amor por el aprendizaje continuo  
+**Habilidades:** pensamiento logico, trabajo en equipo
+
+**Fortalezas:** amor por el aprendizaje continuo  
  
 ### Mariana Alcaraz
 **Programa:** Ingeniería Industrial 
