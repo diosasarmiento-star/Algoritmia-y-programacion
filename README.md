@@ -31,7 +31,9 @@
 **Fortalezas:** amor por el aprendizaje continuo  
  
 ### Mariana Alcaraz
+
 **Programa:** Ingeniería Industrial 
+
 **Habilidades:** Comunicacion Asertiva, Pensamiento Critico
 
 **Fortalezas:** Autodisciplina 
