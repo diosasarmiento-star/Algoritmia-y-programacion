@@ -33,6 +33,7 @@
 ### Mariana Alcaraz
 **Programa:** Ingeniería Industrial 
 **Habilidades:** Comunicacion Asertiva, Pensamiento Critico
+
 **Fortalezas:** Autodisciplina 
 
 ## 3. Nombre del proyecto
