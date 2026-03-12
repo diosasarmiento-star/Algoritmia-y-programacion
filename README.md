@@ -28,8 +28,11 @@
 **Habilidades:** pensamiento logico, trabajo en equipo 
 
  **Fortalezas:** amor por el aprendizaje continuo  
-
----
+ 
+### Mariana Alcaraz
+**Programa:**--- ingeniería industrial 
+**Habilidades:** comunicacion asertiva, pensamiento critico
+**Fortalezas:** autodsiciplina 
 
 ## 3. Nombre del proyecto
 
