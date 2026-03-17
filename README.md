@@ -8,7 +8,7 @@
 |------|-------------|
 | Stefania Sarmiento | Estudiante interesada en análisis de problemas y documentación. |
 | Yohani Correa | Encargado de programación y lógica del algoritmo. |
-| Karen Johana Hinestroza Mercado | Soy Karen,tengo 18 años, vivo en chigorodo antioquia, por el momento soy estudiante,deportista y hago parte de un voluntariado, el deporte que practico es la lucha olimplica y Judo, el voluntariado al cual pertenezco se llama Raices de Ebano y es enfocado en comunidades negras, sus contumbres y tradiciones, por medio de este voluntariado y el gobierno, lidero un poyecto enfocado en la industrilizacion avicola en zonas vulnerables de mi municipio, voy en mi tercer semestre de ingenieria industrial y mis pasatiempos preferidos es pasar tiempo con mi familia, salir a cenar con mis amigas, trotar y leer. |
+| Karen Johana Hinestroza Mercado | Soy Karen,tengo 18 años, vivo en chigorodo antioquia, por el momento soy estudiante,deportista y hago parte de un voluntariado. El deporte que practico es la lucha olimplica y Judo, el voluntariado al cual pertenezco se llama Raices de Ebano y es enfocado en comunidades negras, sus contumbres y tradiciones. Por medio de este voluntariado y el gobierno, lidero un poyecto enfocado en la industrilizacion avicola en zonas vulnerables de mi municipio, voy en mi tercer semestre de ingenieria industrial y mis pasatiempos preferidos es pasar tiempo con mi familia, salir a cenar con mis amigas, trotar y leer. |
 | Mariana Alcaraz | Encargada de programacion y lógica del algoritmo. |
 ---
 
