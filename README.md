@@ -55,7 +55,7 @@ no devueltos.
 
 ## 4. Licencia del software
 
-Este proyecto utiliza la licencia **Creative Commons BY 4.0**.
+Este proyecto utiliza la licencia **Creative Commons BY 4.0**. 
 
 ---
 
