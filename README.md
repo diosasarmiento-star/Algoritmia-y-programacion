@@ -17,7 +17,7 @@
 ### Stefania Sarmiento
 **Programa:** Ingeniería Industrial  
 **Habilidades:** análisis lógico, organización  
-**Fortalezas:** Documentación y estructuración de proyectos  
+**Fortalezas:** Trabajo en equipo, comunicacion efectiva
 
 ### Yohani Correa
 **Programa:** Ingeniería Industrial  
