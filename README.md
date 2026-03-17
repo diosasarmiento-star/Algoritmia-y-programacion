@@ -7,9 +7,7 @@
 | Nombre | Descripción |
 |------|-------------|
 | Stefania Sarmiento | Estudiante interesada en análisis de problemas y documentación. |
-| Yohani Correa | Soy Yohani, tengo 32 años, vivo en La Ceja, Antioquia. Trabajo como auxiliar contable y soy emprendedor de una perfumeria. Vivo 
-con mi esposa y dos hijos, estar en estos momentos estudiando, es un reto para mi, ya que varias veces he empezado y me ha tocado dejar el camino, 
-pero hoy puedo decir que voy en el tercer semestre y con la ilusion de llegar a la meta. Ya saben si desean algun perfume a la orden jeje|
+| Yohani Correa | Soy Yohani, tengo 32 años, vivo en La Ceja, Antioquia. Trabajo como auxiliar contable y soy emprendedor de una perfumeria. Vivo con mi esposa y dos hijos, estar en estos momentos estudiando, es un reto para mi, ya que varias veces he empezado y me ha tocado dejar el camino, pero hoy puedo decir que voy en el tercer semestre y con la ilusion de llegar a la meta. Ya saben si desean algun perfume a la orden jeje|
 | Karen Johana Hinestroza Mercado | Soy Karen,tengo 18 años, vivo en chigorodo antioquia, por el momento soy estudiante,deportista y hago parte de un voluntariado. El deporte que practico es la lucha olimplica y Judo, el voluntariado al cual pertenezco se llama Raices de Ebano y es enfocado en comunidades negras, sus contumbres y tradiciones. Por medio de este voluntariado y el gobierno, lidero un poyecto enfocado en la industrilizacion avicola en zonas vulnerables de mi municipio, voy en mi tercer semestre de ingenieria industrial y mis pasatiempos preferidos es pasar tiempo con mi familia, salir a cenar con mis amigas, trotar y leer. |
 | Mariana Alcaraz | Encargada de programacion y lógica del algoritmo. |
 ---
