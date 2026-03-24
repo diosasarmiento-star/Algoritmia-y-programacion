@@ -69,11 +69,11 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 ## 6. Especificacion de requisitos
 | ID        | Requisito |Descripcion|
 |-----------|-----------|-----------|
-| R-001     | Registrar Usuario | El sistema debe permitir registrar un amigo con nombre, apellido, documento y tiempo de préstamo (5, 10, 15 o 30 días)|
-| R-002     | Registrar prestamos | dato 6    |
-| R-003     | Retornos | dato 6    |
-| R-004     | Notificaciones de recuperacion | dato 6    |
-| R-005     | Solicitud de devolucion | dato 6    |
-| R-006     | Recibo de venta  | dato 6    |
-| R-007     | Certificados de devolucion| dato 6    
-| R-008     | Recordatorio despues de 30 dias  | dato 6    |
+| R-01  | Registrar Usuario | El sistema debe permitir registrar un amigo con nombre, apellido, documento y tiempo de préstamo (5, 10, 15 o 30 días)|
+| R-02  | Registrar prestamos | dato 6    |
+| R-03  | Retornos | dato 6    |
+| R-04  | Notificaciones de recuperacion | dato 6    |
+| R-05  | Solicitud de devolucion | dato 6    |
+| R-06  | Recibo de venta  | dato 6    |
+| R-07  | Certificados de devolucion| dato 6    
+| R-08  | Recordatorio despues de 30 dias  | dato 6    |
