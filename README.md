@@ -67,6 +67,9 @@ Buscamos que para el año 2026, Prestamigos sea el estándar de confianza, garan
 se pierda y que la buena voluntad nunca signifique una pérdida económica.
 
 ## 6. Especificacion de requisitos
-| ID | Requisito | Descripcion |
-|------|-------------|
+| ID        | Requisito |Descripcion|
+|-----------|-----------|-----------|
+| R-001     | Registrar Usuario | dato 3    |
+| R-002     | Validar datos del Usuario   | dato 6    |
+
 
