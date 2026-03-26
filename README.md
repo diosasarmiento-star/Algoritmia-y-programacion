@@ -81,7 +81,7 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 
 ## 7. Presupuesto
 
-Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno en el protecto.
+Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno en el proyecto.
  - SMLV = 1'750.905 Pesos
  - Valor Hora Promedio = 7.959 Pesos
  - Inversion por Estudiante = 50 H * 7.959 = 397.950 Pesos
