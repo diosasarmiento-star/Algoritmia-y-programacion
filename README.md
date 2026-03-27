@@ -70,13 +70,13 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 | ID        | Requisito |Descripcion|
 |-----------|-----------|-----------|
 | R-01  | Registrar Usuario | El sistema debe permitir registrar un amigo con nombre, apellido, documento y tiempo de préstamo (5, 10, 15 o 30 días)|
-| R-02  | Registrar prestamos | se pueden crear préstamos a usuarios registrados    |
-| R-03  | Retornos | dato 6    |
-| R-04  | Notificaciones de recuperacion | dato 6    |
-| R-05  | Solicitud de devolucion | dato 6    |
-| R-06  | Recibo de venta  | dato 6    |
-| R-07  | Certificados de devolucion| dato 6    
-| R-08  | Recordatorio despues de 30 dias  | dato 6    |
+| R-02  | Registrar prestamos | Solo se pueden crear préstamos a usuarios previamente registrados en el sistema |
+| R-03  | Retornos | El sistema permite registrar la devolución de un ítem prestado verificando que el préstamo esté activo |
+| R-04  | Notificaciones de recuperacion | El sistema genera una alerta cuando un préstamo supera los 20 días sin devolución    |
+| R-05  | Solicitud de devolucion | El sistema emite una solicitud formal de devolución al cumplirse el tiempo de préstamo acordado    |
+| R-06  | Recibo de venta  | Se genera una factura con subtotal e impuesto del 23% para ítems con más de 30 días prestados    |
+| R-07  | Certificados de devolucion| Al registrar una devolución a tiempo se genera un certificado con los datos del préstamo en archivo de texto    |   
+| R-08  | Recordatorio despues de 30 dias  | El sistema notifica a MJ que un ítem superó el mes de préstamo y debe proceder con la facturación    |
 
 
 ## 7. Presupuesto
