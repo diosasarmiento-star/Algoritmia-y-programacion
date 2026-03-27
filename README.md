@@ -86,9 +86,9 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 | RNF-02 | Validación de entradas | El sistema debe validar cada dato ingresado y mostrar mensajes de error comprensibles |
 | RNF-03 | Rendimiento | El sistema debe responder a cada operación en menos de 3 segundos |
 | RNF-04 | Seguridad | El módulo administrador requiere usuario y contraseña para acceder |
-| RNF-05 | Compatibilidad | El programa debe ejecutarse en Python 3.x en cualquier sistema operativo |
+| RNF-05 | Compatibilidad | El programa debe ejecutarse en Python |
 | RNF-06 | Fiabilidad | La información debe persistir entre sesiones mediante archivos planos sin pérdida de datos |
-| RNF-07 | Mantenibilidad | El código debe estar organizado en carpetas `src/` y `doc/` con nomenclatura clara |
+| RNF-07 | Mantenibilidad | El código debe estar organizado en carpetas con nomenclatura clara |
 
 ## 7. Presupuesto
 
