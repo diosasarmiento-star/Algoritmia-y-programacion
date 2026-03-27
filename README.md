@@ -70,7 +70,7 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 | ID        | Requisito |Descripcion|
 |-----------|-----------|-----------|
 | R-01  | Registrar Usuario | El sistema debe permitir registrar un amigo con nombre, apellido, documento y tiempo de préstamo (5, 10, 15 o 30 días)|
-| R-02  | Registrar prestamos | dato 6    |
+| R-02  | Registrar prestamos | se pueden crear préstamos a usuarios registrados    |
 | R-03  | Retornos | dato 6    |
 | R-04  | Notificaciones de recuperacion | dato 6    |
 | R-05  | Solicitud de devolucion | dato 6    |
