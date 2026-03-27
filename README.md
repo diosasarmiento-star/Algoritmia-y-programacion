@@ -66,7 +66,7 @@ transformando la informalidad de los préstamos entre amigos en un proceso trans
 Buscamos que para el año 2026, Prestamigos sea el estándar de confianza, garantizando que ninguna herramienta 
 se pierda y que la buena voluntad nunca signifique una pérdida económica.
 
-## 6. Especificacion de requisitos
+## 6. Requisitos funcionales 
 | ID        | Requisito |Descripcion|
 |-----------|-----------|-----------|
 | R-01  | Registrar Usuario | El sistema debe permitir registrar un amigo con nombre, apellido, documento y tiempo de préstamo (5, 10, 15 o 30 días)|
@@ -78,6 +78,17 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 | R-07  | Certificados de devolucion| Al registrar una devolución a tiempo se genera un certificado con los datos del préstamo en archivo de texto    |   
 | R-08  | Recordatorio despues de 30 dias  | El sistema notifica a MJ que un ítem superó el mes de préstamo y debe proceder con la facturación    |
 
+## Requisitos No Funcionales
+
+| ID | Requisito | Descripción |
+|----|-----------|-------------|
+| RNF-01 | Usabilidad | El menú de consola debe ser claro y fácil de navegar para cualquier usuario |
+| RNF-02 | Validación de entradas | El sistema debe validar cada dato ingresado y mostrar mensajes de error comprensibles |
+| RNF-03 | Rendimiento | El sistema debe responder a cada operación en menos de 3 segundos |
+| RNF-04 | Seguridad | El módulo administrador requiere usuario y contraseña para acceder |
+| RNF-05 | Compatibilidad | El programa debe ejecutarse en Python 3.x en cualquier sistema operativo |
+| RNF-06 | Fiabilidad | La información debe persistir entre sesiones mediante archivos planos sin pérdida de datos |
+| RNF-07 | Mantenibilidad | El código debe estar organizado en carpetas `src/` y `doc/` con nomenclatura clara |
 
 ## 7. Presupuesto
 
