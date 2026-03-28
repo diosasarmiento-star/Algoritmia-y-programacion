@@ -98,4 +98,6 @@ Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno
  - Inversion por Estudiante = 50 H * 7.959 = 397.950 Pesos
  - Costo Total Proyecto = 4 * 397.950 = 1'591.800 Pesos
 
+[DIAGRAMA GANTT](C:\Users\ZORAIDA\Pictures\Screenshots)
+
  
