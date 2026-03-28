@@ -98,7 +98,8 @@ Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno
  - Inversion por Estudiante = 50 H * 7.959 = 397.950 Pesos
  - Costo Total Proyecto = 4 * 397.950 = 1'591.800 Pesos
 
-[DIAGRAMAGANTT](file:///C:/Users/ZORAIDA/Pictures/Screenshots/Diagrama%20PrestAmigos.png)
+[DIAGRAMAGANTT]()<img width="1203" height="741" alt="Diagrama PrestAmigos" src="https://github.com/user-attachments/assets/b03da3d0-a4ef-4937-a35f-37f042e6ebf3" />
+
 
 
  
