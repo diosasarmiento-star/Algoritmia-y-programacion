@@ -49,6 +49,7 @@ como alertas de vencimiento, generacion de certificado de retorno y emision auto
 no devueltos.
 
 [PRESTAMIGOS](https://github.com/user-attachments/assets/f5e874ef-0442-49df-aee1-e4442883449e)
+file:///C:/Users/ZORAIDA/Pictures/Screenshots/Diagrama%20PrestAmigos.png
 
 
 ---
@@ -90,7 +91,7 @@ se pierda y que la buena voluntad nunca signifique una pérdida económica.
 | RNF-06 | Fiabilidad | La información debe persistir entre sesiones mediante archivos planos sin pérdida de datos |
 | RNF-07 | Mantenibilidad | El código debe estar organizado en carpetas `src/` y `doc/` con nomenclatura clara |
 
-## 7. Presupuesto
+## 7. Presupuesto Y Diagrama Gantt
 
 Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno en el proyecto.
  - SMLV = 1'750.905 Pesos
@@ -98,7 +99,7 @@ Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno
  - Inversion por Estudiante = 50 H * 7.959 = 397.950 Pesos
  - Costo Total Proyecto = 4 * 397.950 = 1'591.800 Pesos
 
-[DIAGRAMAGANTT]()<img width="1203" height="741" alt="Diagrama PrestAmigos" src="https://github.com/user-attachments/assets/b03da3d0-a4ef-4937-a35f-37f042e6ebf3" />
+<img width="1203" height="741" alt="Diagrama PrestAmigos" src="https://github.com/user-attachments/assets/b03da3d0-a4ef-4937-a35f-37f042e6ebf3" />
 
 
 
