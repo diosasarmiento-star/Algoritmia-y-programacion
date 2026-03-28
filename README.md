@@ -49,7 +49,8 @@ como alertas de vencimiento, generacion de certificado de retorno y emision auto
 no devueltos.
 
 [PRESTAMIGOS](https://github.com/user-attachments/assets/f5e874ef-0442-49df-aee1-e4442883449e)
-file:///C:/Users/ZORAIDA/Pictures/Screenshots/Diagrama%20PrestAmigos.png
+
+![LOGOPRESTAMIGOS](https://github.com/user-attachments/assets/1ee226a3-bcbc-443a-80c9-7f0e10c369c3)
 
 
 ---
