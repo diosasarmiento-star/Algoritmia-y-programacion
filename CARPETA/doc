@@ -1,1 +1,15 @@
-imagenes/
+MANUAL DE USUARIO- PRESTAMIGOS 
+Tabla de contenidos 
+1. Introduccion 
+2. Requisitos del sistema 
+3. Instalacion y ejecucion 
+4. Menu principal 
+5. Modulo 1- Registrar usuario 
+6. Modulo 2- Registrar Item 
+7. Modulo 3- Registrar prestamo
+8. Modulo 4- Registrar devolucion 
+9. Modulo 5- Consultar estado de prestamos 
+10. Modulo 6- Generar factura de venta 
+11. Archivos generados por el sistema 
+12. Mensajes de error frecuentes 
+13. Persistencia de datos 
