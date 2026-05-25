@@ -14,3 +14,10 @@ Tabla de contenidos
 11. Archivos generados por el sistema 
 12. Mensajes de error frecuentes 
 13. Persistencia de datos 
+
+1. Introducción
+PRESTAMIGOS es un sistema de consola desarrollado en Python que permite a cualquier persona gestionar de forma organizada el préstamo de artículos a terceros. 
+El sistema registra usuarios, ítems, préstamos y devoluciones, y genera automáticamente certificados de devolución y facturas de venta cuando un ítem supera 
+los 30 días prestado.
+Este manual describe paso a paso cómo utilizar cada función del programa. No se requieren conocimientos de programación para operarlo;
+basta con seguir las instrucciones que aparecen en pantalla.
