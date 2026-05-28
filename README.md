@@ -98,7 +98,15 @@ Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno
  - Inversion por Estudiante = 50 H * 7.959 = 397.950 Pesos
  - Costo Total Proyecto = 4 * 397.950 = 1'591.800 Pesos
 
+   ### Diagrama de Gantt primera entrega
+
+   <img width="1024" height="768" alt="diagrama de gantt primera entrega" src="https://github.com/user-attachments/assets/f63d0e23-8835-44b3-8c69-9a0919a9c460" />
+
+   ### Diagrama de Gantt segunda entrega
+
 <img width="1203" height="741" alt="Diagrama PrestAmigos" src="https://github.com/user-attachments/assets/b03da3d0-a4ef-4937-a35f-37f042e6ebf3" />
+
+
 
 
 
