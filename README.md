@@ -56,8 +56,9 @@ no devueltos.
 ## 4. Licencia del software
 
 ​Este proyecto está bajo una licencia **CC BY-NC 4.0**. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-nc/4.0/ 
+<img width="506" height="782" alt="Captura de pantalla 2026-06-05 200049" src="https://github.com/user-attachments/assets/e26e459e-6456-4f7b-a92f-2d85adeb1501" />
+imagen tomada de creativecommons.org
 
----
 
 ## 5. Reporte de visión
 
