@@ -119,7 +119,7 @@ Para su calculo hemos definifo que cada integrante va invertir 50 Horas cada uno
 
 <img width="1203" height="741" alt="Diagrama PrestAmigos" src="https://github.com/user-attachments/assets/b03da3d0-a4ef-4937-a35f-37f042e6ebf3" />
 
-# 8. Plan de Versionado (Historial de Desarrollo)
+## 8. Plan de Versionado (Historial de Desarrollo)
 
 A continuación se detalla de forma cronológica el proceso de construcción y evolución de **PRESTAMIGOS**, reflejando las etapas de desarrollo y la integración de las herramientas vistas en el curso.
 
